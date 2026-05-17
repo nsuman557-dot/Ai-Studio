@@ -1,0 +1,6 @@
+{
+  "name": "VOID. Anime",
+  "description": "A full-scale copy of the VOID anime streaming layout, featuring high-contrast brutalist design and immersive hero slider.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
